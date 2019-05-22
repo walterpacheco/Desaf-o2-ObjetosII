@@ -1,4 +1,4 @@
-class Store
+class Storeinitialize
     attr_reader :name
     def initialize(name)
         @name = name
